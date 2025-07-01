@@ -46,31 +46,37 @@ This project simulates a real company scenario, where we:
    pip install pandas matplotlib
 Run the scripts in order:
 
+
 🧹 Clean the data:
 
 python clean_employees.py
+
 
 📊 Generate the salary report:
 
 python department_salary_report.py
 
+
 📈 Visualize average salary by department:
 
 python plot_salary_chart.py
 
+
 ✅ Skills Demonstrated
 
-Real-world data cleaning (removing duplicates, missing values, formatting)
+- Real-world data cleaning (removing duplicates, missing values, formatting)
 
-Grouping and aggregating data with Pandas
+- Grouping and aggregating data with Pandas
 
-Creating clean data visualizations
+- Creating clean data visualizations
 
-Writing readable and well-structured Python code
+- Writing readable and well-structured Python code
 
-Using Git and GitHub to share a professional project
+- Using Git and GitHub to share a professional project
 
 
 👨‍💻 Author
+
 Yorman Gomez
+
 Data Analyst in training
